@@ -1,0 +1,9 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color name="custom_theme_Bkcolor">#1A1B20</color>
+	<style name="CustomTheme" >
+   	 	<item name="android:windowBackground">@color/custom_theme_Bkcolor</item>
+    	<item name="android:windowNoTitle">true</item>
+	</style>
+
+</resources>

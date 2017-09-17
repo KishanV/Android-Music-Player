@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <FrameLayout
+        android:id="@+id/status_bar_album_art"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:id="@+id/mainBackground" />
+
+        <ImageView
+            android:scaleType="fitXY"
+            android:id="@+id/Icon"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="2dp" />
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="2dp"
+            android:scaleType="fitXY"
+            android:id="@+id/IconRing" />
+
+        <ImageButton
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="2dp"
+            android:background="#00FFFFFF"
+            android:id="@+id/pauseBtn"
+            />
+
+        <ImageButton
+            android:layout_height="64dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="42dp"
+            android:background="#00FFFFFF"
+            android:id="@+id/nextBtn"
+            android:layout_width="42dp" />
+
+        <ImageButton
+            android:layout_height="64dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="86dp"
+            android:background="#00FFFFFF"
+            android:id="@+id/prevBtn"
+            android:layout_width="42dp" />
+
+        <ImageButton
+            android:layout_height="64dp"
+            android:layout_gravity="right"
+            android:layout_width="40dp"
+            android:background="#00FFFFFF"
+            android:id="@+id/closeeBtn"/>
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_marginLeft="75dp"
+            android:layout_marginTop="9dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_medium"
+                android:textStyle="normal"
+                android:text="TItle Of Song"
+                android:id="@+id/title"
+                android:gravity="center" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="75dp"
+            android:layout_marginTop="34dp"
+            android:layout_height="20dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small"
+                android:textStyle="normal"
+                android:text="Artist Name Here."
+                android:id="@+id/artist"
+                android:gravity="center" />
+        </FrameLayout>
+
+    </FrameLayout>
+</FrameLayout>
