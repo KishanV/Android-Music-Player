@@ -11,9 +11,8 @@ This music player in etierly writtern by me and also its UI/UX desinged by me.
 ◈ Unbelievable audio Softness controller.
 
 ### Google Playstore link
-#### [Linedeer Music Player Pro](https://play.google.com/store/apps/details?id=com.linedeer.music.handler)
-
-
-
+### [Linedeer Music Player Pro](https://play.google.com/store/apps/details?id=com.linedeer.music.handler)
+</br>
+</br
 <img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo1.png" width="50%" />
 <img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo4.png" width="50%" />
