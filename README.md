@@ -15,6 +15,6 @@ This music player in etierly writtern by me and also its UI/UX desinged by me.
 </br>
 <img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo1.png" width="50%" />
 <img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo4.png" width="50%" />
-<img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo2_2.png" width="100%" />
-<img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo2_5.png" width="100%" />
-<img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo2_8.png" width="100%" />
+<img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo2_2.png" width="50%" />
+<img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo5_5.png" width="50%" />
+<img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/renderDemo8_8.png" width="50%" />
