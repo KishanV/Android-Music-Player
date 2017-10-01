@@ -10,6 +10,12 @@ This music player in etierly writtern by me and also its UI/UX desinged by me.
 ◈ Saprate Bass and treble.</br>
 ◈ Unbelievable audio Softness controller.
 
+### App Architecture (Src Code).
+◈ [Main Activity](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/com/linedeer/player/Ui.java)</br>
+◈ [Service](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/com/linedeer/player/musicPlayer.java)</br>
+◈ [Playback Handler](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/com/player/playlistHandler.java)</br>
+◈ [Eq Database](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/com/player/playerDb.java)
+
 ### Go to Playstore : [Linedeer Music Player Pro](https://play.google.com/store/apps/details?id=com.linedeer.music.handler)
 </br>
 </br>
