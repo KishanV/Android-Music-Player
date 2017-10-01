@@ -11,7 +11,9 @@ This music player in etierly writtern by me and also its UI/UX desinged by me.
 ◈ Unbelievable audio Softness controller.
 
 ### App Architecture (Src Code).
+◈ [AndroidManifest](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/AndroidManifest.xml)
 ◈ [Main Activity](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/com/linedeer/player/Ui.java)</br>
+◈ [Home View](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/Views/ContentHome.java)
 ◈ [Service](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/com/linedeer/player/musicPlayer.java)</br>
 ◈ [Playback Handler](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/com/player/playlistHandler.java)</br>
 ◈ [Eq Database](https://github.com/KishanV/Android-Music-Player/blob/master/app/src/main/java/com/player/playerDb.java)
