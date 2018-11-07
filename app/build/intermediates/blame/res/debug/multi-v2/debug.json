@@ -1,0 +1,1659 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-hy-rAM_values-hy-rAM.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,490,600,690,796,911,993,1074,1159,1266,1373,1472,1582,1689,1789,1914,2013,2095",
+                        "endColumns": "102,107,122,100,109,89,105,114,81,80,84,106,106,98,109,106,99,124,98,81,100",
+                        "endOffsets": "153,261,384,485,595,685,791,906,988,1069,1154,1261,1368,1467,1577,1684,1784,1909,2008,2090,2191"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4_values-hdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,488,598,684,788,907,991,1074,1160,1264,1377,1483,1588,1701,1808,1931,2028,2117",
+                        "endColumns": "104,107,122,96,109,85,103,118,83,82,85,103,112,105,104,112,106,122,96,88,100",
+                        "endOffsets": "155,263,386,483,593,679,783,902,986,1069,1155,1259,1372,1478,1583,1696,1803,1926,2023,2112,2213"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-pa-rIN_values-pa-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,269,392,497,602,688,788,901,978,1054,1133,1234,1335,1432,1541,1640,1750,1872,1972,2051",
+                        "endColumns": "105,107,122,104,104,85,99,112,76,75,78,100,100,96,108,98,109,121,99,78,100",
+                        "endOffsets": "156,264,387,492,597,683,783,896,973,1049,1128,1229,1330,1427,1536,1635,1745,1867,1967,2046,2147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-bn-rBD_values-bn-rBD.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,507,613,707,812,941,1019,1097,1184,1294,1410,1517,1627,1733,1846,1974,2079,2169",
+                        "endColumns": "108,107,122,111,105,93,104,128,77,77,86,109,115,106,109,105,112,127,104,89,100",
+                        "endOffsets": "159,267,390,502,608,702,807,936,1014,1092,1179,1289,1405,1512,1622,1728,1841,1969,2074,2164,2265"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13_values-h720dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,258,381,476,576,658,755,861,937,1013,1091,1187,1283,1378,1475,1570,1668,1780,1874,1952",
+                        "endColumns": "95,106,122,94,99,81,96,105,75,75,77,95,95,94,96,94,97,111,93,77,100",
+                        "endOffsets": "146,253,376,471,571,653,750,856,932,1008,1086,1182,1278,1373,1470,1565,1663,1775,1869,1947,2048"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,40,41,46,51,56,58,60,61,62,115,169",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2795,2898,3306,3726,4148,4255,4384,4455,4538,8477,12559",
+                        "endLines": "7,13,19,25,31,37,38,39,40,45,50,55,57,59,60,61,114,168,169",
+                        "endColumns": "12,12,12,12,12,12,88,100,102,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2790,2893,3301,3721,4143,4250,4379,4450,4533,8472,12554,12645"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,269,395,494,602,686,786,900,978,1056,1135,1237,1341,1437,1540,1641,1741,1857,1953,2032",
+                        "endColumns": "103,109,125,98,107,83,99,113,77,77,78,101,103,95,102,100,99,115,95,78,102",
+                        "endOffsets": "154,264,390,489,597,681,781,895,973,1051,1130,1232,1336,1432,1535,1636,1736,1852,1948,2027,2130"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,176,284,407,511,624,712,824,945,1030,1112,1195,1307,1420,1520,1634,1739,1845,1966,2069,2152",
+                        "endColumns": "120,107,122,103,112,87,111,120,84,81,82,111,112,99,113,104,105,120,102,82,100",
+                        "endOffsets": "171,279,402,506,619,707,819,940,1025,1107,1190,1302,1415,1515,1629,1734,1840,1961,2064,2147,2248"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,273,396,498,603,690,794,910,992,1071,1157,1260,1369,1470,1574,1682,1790,1913,2012,2096",
+                        "endColumns": "109,107,122,101,104,86,103,115,81,78,85,102,108,100,103,107,107,122,98,83,100",
+                        "endOffsets": "160,268,391,493,598,685,789,905,987,1066,1152,1255,1364,1465,1569,1677,1785,1908,2007,2091,2192"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,270,393,493,604,690,798,916,994,1072,1156,1261,1370,1469,1575,1686,1795,1919,2017,2105",
+                        "endColumns": "106,107,122,99,110,85,107,117,77,77,83,104,108,98,105,110,108,123,97,87,100",
+                        "endOffsets": "157,265,388,488,599,685,793,911,989,1067,1151,1256,1365,1464,1570,1681,1790,1914,2012,2100,2201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v25_values-v25.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-mn-rMN_values-mn-rMN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,276,399,499,612,699,805,917,999,1081,1163,1272,1376,1473,1581,1682,1785,1907,2004,2085",
+                        "endColumns": "112,107,122,99,112,86,105,111,81,81,81,108,103,96,107,100,102,121,96,80,100",
+                        "endOffsets": "163,271,394,494,607,694,800,912,994,1076,1158,1267,1371,1468,1576,1677,1780,1902,1999,2080,2181"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-uk\\values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,273,396,498,604,690,798,916,995,1075,1156,1262,1369,1467,1575,1681,1790,1914,2014,2095",
+                        "endColumns": "109,107,122,101,105,85,107,117,78,79,80,105,106,97,107,105,108,123,99,80,100",
+                        "endOffsets": "160,268,391,493,599,685,793,911,990,1070,1151,1257,1364,1462,1570,1676,1785,1909,2009,2090,2191"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,124,188,257",
+                        "endColumns": "68,63,68,69",
+                        "endOffsets": "119,183,252,322"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,512,619,708,809,927,1010,1090,1177,1284,1396,1498,1606,1713,1823,1948,2048,2133",
+                        "endColumns": "119,107,122,105,106,88,100,117,82,79,86,106,111,101,107,106,109,124,99,84,100",
+                        "endOffsets": "170,278,401,507,614,703,804,922,1005,1085,1172,1279,1391,1493,1601,1708,1818,1943,2043,2128,2229"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,508,615,700,802,924,1001,1079,1169,1278,1380,1478,1588,1688,1803,1928,2034,2113",
+                        "endColumns": "116,107,122,104,106,84,101,121,76,77,89,108,101,97,109,99,114,124,105,78,100",
+                        "endOffsets": "167,275,398,503,610,695,797,919,996,1074,1164,1273,1375,1473,1583,1683,1798,1923,2029,2108,2209"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,274,397,512,623,705,811,941,1024,1104,1190,1300,1412,1515,1626,1733,1840,1962,2061,2147",
+                        "endColumns": "110,107,122,114,110,81,105,129,82,79,85,109,111,102,110,106,106,121,98,85,100",
+                        "endOffsets": "161,269,392,507,618,700,806,936,1019,1099,1185,1295,1407,1510,1621,1728,1835,1957,2056,2142,2243"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,25,26,28,30,31,32,33,34,36,38,40,42,44,46,47,52,54,56,57,58,60,62,63,64,65,66,67,111,114,158,161,164,166,168,170,173,175,178,179,180,183,184,185,186,187,188,191,192,194,196,198,200,204,206,207,208,209,211,215,217,219,220,221,222,223,225,226,227,237,238,239,251,263,264,265,268,271,272,275,276,279,282",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,445,548,651,756,863,972,1081,1190,1299,1408,1515,1618,1737,1892,2047,2152,2273,2374,2521,2662,2765,2884,2991,3094,3249,3420,3569,3734,3891,4042,4161,4533,4682,4831,4943,5090,5243,5390,5465,5554,5641,5742,5845,8913,9099,12179,12377,12577,12700,12823,12936,13119,13250,13451,13540,13651,13884,13985,14080,14203,14332,14449,14626,14725,14860,15003,15138,15257,15458,15577,15670,15781,15837,15944,16139,16250,16383,16478,16569,16660,16777,16916,16987,17070,17750,17807,17865,18559,19265,19384,19513,19684,19850,19979,20150,20281,20451,20626",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,27,29,30,31,32,33,35,37,39,41,43,45,46,51,53,55,56,57,59,61,62,63,64,65,66,110,113,157,160,163,165,167,169,172,174,177,178,179,182,183,184,185,186,187,190,191,193,195,197,199,203,205,206,207,208,210,214,216,218,219,220,221,222,224,225,226,236,237,238,250,262,263,264,267,270,271,274,275,278,281,286",
+                        "endColumns": "103,63,66,63,90,102,102,104,106,108,108,108,108,108,106,102,118,12,12,104,120,100,12,12,102,118,106,102,12,12,12,12,12,12,118,12,12,12,111,146,12,12,74,88,86,100,102,12,12,12,12,12,12,12,12,12,12,12,88,110,12,100,94,122,128,116,12,98,12,12,12,12,12,12,92,110,55,12,12,12,12,94,90,90,116,12,70,82,12,56,57,12,12,118,128,12,12,128,12,130,12,12,12",
+                        "endOffsets": "154,218,285,349,440,543,646,751,858,967,1076,1185,1294,1403,1510,1613,1732,1887,2042,2147,2268,2369,2516,2657,2760,2879,2986,3089,3244,3415,3564,3729,3886,4037,4156,4528,4677,4826,4938,5085,5238,5385,5460,5549,5636,5737,5840,8908,9094,12174,12372,12572,12695,12818,12931,13114,13245,13446,13535,13646,13879,13980,14075,14198,14327,14444,14621,14720,14855,14998,15133,15252,15453,15572,15665,15776,15832,15939,16134,16245,16378,16473,16564,16655,16772,16911,16982,17065,17745,17802,17860,18554,19260,19379,19508,19679,19845,19974,20145,20276,20446,20621,20962"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ka-rGE_values-ka-rGE.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,499,610,698,803,916,1000,1082,1165,1278,1385,1483,1596,1700,1804,1926,2024,2105",
+                        "endColumns": "108,107,122,103,110,87,104,112,83,81,82,112,106,97,112,103,103,121,97,80,100",
+                        "endOffsets": "159,267,390,494,605,693,798,911,995,1077,1160,1273,1380,1478,1591,1695,1799,1921,2019,2100,2201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-kk-rKZ_values-kk-rKZ.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,167,275,398,501,611,696,802,921,1002,1082,1163,1266,1371,1469,1576,1685,1785,1900,1999,2080",
+                        "endColumns": "111,107,122,102,109,84,105,118,80,79,80,102,104,97,106,108,99,114,98,80,100",
+                        "endOffsets": "162,270,393,496,606,691,797,916,997,1077,1158,1261,1366,1464,1571,1680,1780,1895,1994,2075,2176"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,499,614,698,810,940,1016,1092,1175,1285,1396,1496,1607,1715,1834,1968,2071,2154",
+                        "endColumns": "107,107,122,104,114,83,111,129,75,75,82,109,110,99,110,107,118,133,102,82,100",
+                        "endOffsets": "158,266,389,494,609,693,805,935,1011,1087,1170,1280,1391,1491,1602,1710,1829,1963,2066,2149,2250"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,514,623,709,813,935,1017,1099,1184,1293,1405,1504,1615,1724,1829,1948,2047,2129",
+                        "endColumns": "119,107,122,107,108,85,103,121,81,81,84,108,111,98,110,108,104,118,98,81,100",
+                        "endOffsets": "170,278,401,509,618,704,808,930,1012,1094,1179,1288,1400,1499,1610,1719,1824,1943,2042,2124,2225"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,258,381,475,577,659,757,863,942,1018,1098,1196,1291,1386,1486,1582,1681,1796,1890,1968",
+                        "endColumns": "94,107,122,93,101,81,97,105,78,75,79,97,94,94,99,95,98,114,93,77,100",
+                        "endOffsets": "145,253,376,470,572,654,752,858,937,1013,1093,1191,1286,1381,1481,1577,1676,1791,1885,1963,2064"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN_values-kn-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,516,629,717,824,951,1028,1105,1187,1303,1414,1513,1626,1730,1844,1970,2070,2152",
+                        "endColumns": "117,107,122,111,112,87,106,126,76,76,81,115,110,98,112,103,113,125,99,81,100",
+                        "endOffsets": "168,276,399,511,624,712,819,946,1023,1100,1182,1298,1409,1508,1621,1725,1839,1965,2065,2147,2248"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-az-rAZ_values-az-rAZ.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,493,605,693,800,914,995,1074,1159,1266,1373,1473,1582,1686,1796,1893,1976",
+                        "endColumns": "107,107,122,98,111,87,106,113,80,78,84,106,106,99,108,103,109,96,82,100",
+                        "endOffsets": "158,266,389,488,600,688,795,909,990,1069,1154,1261,1368,1468,1577,1681,1791,1888,1971,2072"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ky-rKG_values-ky-rKG.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,485,604,688,795,912,990,1069,1150,1260,1367,1465,1571,1678,1779,1903,2006,2087",
+                        "endColumns": "103,107,122,94,118,83,106,116,77,78,80,109,106,97,105,106,100,123,102,80,100",
+                        "endOffsets": "154,262,385,480,599,683,790,907,985,1064,1145,1255,1362,1460,1566,1673,1774,1898,2001,2082,2183"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,1",
+                        "startOffsets": "78,131",
+                        "endLines": "2,6",
+                        "endColumns": "54,9",
+                        "endOffsets": "128,302"
+                    },
+                    "to": {
+                        "startLines": "34,1380",
+                        "startColumns": "4,4",
+                        "startOffsets": "2212,100055",
+                        "endLines": "34,1383",
+                        "endColumns": "54,9",
+                        "endOffsets": "2262,100222"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "15,21,4,2,3,10,14,18,7,13,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "527,679,157,57,105,329,477,608,240,421,744",
+                        "endColumns": "51,41,45,46,50,52,48,47,53,54,41",
+                        "endOffsets": "574,716,198,99,151,377,521,651,289,471,781"
+                    },
+                    "to": {
+                        "startLines": "19,22,31,32,33,72,73,78,79,80,81",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1181,1385,2068,2114,2161,4719,4772,5107,5155,5209,5264",
+                        "endColumns": "51,41,45,46,50,52,48,47,53,54,41",
+                        "endOffsets": "1228,1422,2109,2156,2207,4767,4816,5150,5204,5259,5301"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,10,9,8,7,11,5",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "80,143,414,362,306,249,465,195",
+                        "endColumns": "61,50,49,50,54,55,60,50",
+                        "endOffsets": "137,189,459,408,356,300,521,241"
+                    },
+                    "to": {
+                        "startLines": "366,367,368,369,370,371,372,373",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "35305,35367,35418,35468,35519,35574,35630,35691",
+                        "endColumns": "61,50,49,50,54,55,60,50",
+                        "endOffsets": "35362,35413,35463,35514,35569,35625,35686,35737"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "14,16,15,12,13,11,4,8,7,5,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "563,690,628,432,485,369,84,283,234,138,186",
+                        "endColumns": "63,53,60,51,76,61,52,46,47,46,46",
+                        "endOffsets": "622,739,684,479,557,426,132,325,277,180,228"
+                    },
+                    "to": {
+                        "startLines": "298,303,311,312,313,314,315,316,317,318,319",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "30908,31263,31756,31817,31869,31946,32008,32061,32108,32156,32203",
+                        "endColumns": "63,53,60,51,76,61,52,46,47,46,46",
+                        "endOffsets": "30967,31312,31812,31864,31941,32003,32056,32103,32151,32198,32245"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,86,87,88,89,90,91,92,93,107,108,109,112,113,114,126,127,133,134,135,136,148,149,150,151,152,153,180,181,187,188,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,356,357,361,365,370,376,383,387,391,396,400,404,408,412,416,420,424,428,432,436,440,444,449,453,456,460,464,468,472,476,480,484,488,492,496,500,501,502,503,506,509,513,514,515,516,517,520,522,524,526,531,532,536,542,546,547,549,560,561,565,571,575,576,577,581,608,612,613,617,645,804,826,985,1007,1029,1036,1041,1063,1068,1073,1083,1092,1101,1105,1112,1120,1127,1128,1137,1140,1143,1148,1152,1156,1159,1160,1164,1168,1178,1183,1190,1196,1197,1200,1204,1209,1211,1213,1216,1219,1221,1225,1228,1235,1238,1241,1245,1247,1251,1253,1259,1261,1265,1273,1281,1293,1299,1308,1311,1322,1325,1330,1344,1349,1391,1434,1435,1445,1454,1455,1457,1461,1464,1467,1470,1473,1477,1480,1483,1486,1490,1493,1497,1501,1502,1503,1504,1505,1506,1507,1508,1509,1510,1511,1512,1513,1514,1515,1516,1517,1518,1519,1520,1521,1525,1529,1530,1531,1532,1533,1537,1538,1542,1543,1545,1547,1548,1549,1550,1551,1552,1553,1555,1556,1558,1559,1561,1563,1564,1566,1567,1568,1569,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1583,1585,1587,1588,1589,1590,1591,1592,1593,1594,1595,1596,1597,1598,1599,1601,1602,1603,1604,1605,1606,1608,1612,1616,1617,1618,1619,1620,1621,1622,1623,1625,1627,1629,1631,1633,1634,1635,1636,1638,1640,1642,1643,1644,1645,1646,1647,1648,1649,1650,1651,1652,1653,1656,1657,1658,1659,1661,1663,1664,1666,1667,1669,1671,1673,1674,1675,1676,1677,1678,1679,1680,1681,1682,1683,1684,1686,1687,1688,1689,1691,1692,1693,1694,1695,1696,1697,1699,1701,1703,1705,1706,1707,1708,1709,1710,1711,1712,1713,1714,1715,1716,1717,1718",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,110,155,204,245,300,358,420,488,566,647,708,783,859,936,1014,1099,1181,1257,1333,1410,1488,1594,1700,1779,1859,1916,1974,2048,2123,2188,2254,2326,2399,2466,2534,2593,2652,2711,2770,2829,2883,2937,2990,3044,3098,3152,3206,3275,3338,3427,3501,3580,3653,3727,3798,3870,3942,4015,4072,4130,4203,4277,4351,4426,4498,4571,4641,4712,6627,6731,6832,6879,7127,7319,7669,7808,8382,8702,8861,15264,15376,15537,16009,16432,17025,17246,17405,17664,18627,19066,19254,19382,20163,20380,21711,22096,23469,23714,24204,24357,24426,24495,24565,24639,24715,24779,24856,24932,25009,25073,25138,25207,25284,25359,25428,25496,25573,25639,25736,25801,25870,25969,26040,26099,26157,26214,26273,26344,26416,26488,26560,26632,26700,26768,26827,26890,26980,27071,27131,27197,27264,27330,27400,27464,27517,27630,27688,27751,27816,27881,27956,28029,28101,28150,28211,28272,28333,28395,28459,28523,28587,28652,28715,28775,28836,28902,28961,29021,29083,29154,29214,29282,29368,29455,29545,29632,29720,29802,29885,29975,30066,30127,30188,30250,30314,30376,30437,30505,30605,30665,30731,30804,30873,30930,30982,31044,31116,31192,31249,31297,31346,31397,31431,31478,31527,31573,31605,31669,31731,31791,31861,31935,32013,32106,32176,32254,32308,32378,32463,32511,32557,32628,32706,32784,32856,32930,33004,33078,33158,33231,33300,33372,33449,33501,33574,33648,33717,33792,33866,33940,34029,34099,34152,34223,34301,34391,34479,34575,35076,35165,35412,35693,35978,36371,36848,37070,37292,37560,37787,38017,38247,38477,38707,38934,39173,39399,39644,39874,40122,40341,40624,40832,40963,41190,41436,41661,41908,42129,42374,42650,42951,43275,43566,43880,44017,44148,44253,44457,44665,44936,45048,45160,45265,45382,45596,45742,45882,45968,46316,46404,46634,47052,47285,47367,47465,48082,48182,48418,48842,49081,49175,49264,49501,51553,51795,51897,52134,54318,64479,65730,75990,77253,78518,79054,79384,80649,80905,81141,81688,82182,82787,82985,83565,84129,84504,84622,85160,85317,85491,85811,86067,86237,86378,86442,86724,87010,87686,87950,88288,88641,88735,88921,89227,89489,89614,89741,89980,90191,90310,90503,90680,91135,91316,91438,91697,91810,91997,92099,92543,92667,92942,93450,93946,94823,95117,95687,95836,96568,96740,97076,98134,98412,101598,104927,104989,105619,106233,106319,106432,106661,106821,106973,107144,107311,107554,107724,107897,108068,108342,108541,108746,109076,109160,109256,109352,109450,109550,109652,109754,109856,109958,110060,110160,110256,110368,110497,110620,110751,110882,110980,111094,111188,111387,111591,111660,111776,111904,111968,112172,112241,112444,112514,112654,112788,112884,112996,113096,113212,113308,113420,113560,113696,113860,113990,114148,114298,114439,114583,114718,114830,114958,115094,115226,115356,115486,115598,115738,115806,115879,115953,116026,116100,116246,116390,116528,116594,116684,116760,116864,116954,117056,117164,117272,117372,117452,117544,117642,117752,117830,117936,118028,118132,118242,118364,118527,118684,118764,118864,118954,119064,119158,119264,119356,119456,119568,119682,119798,119914,120008,120122,120234,120336,120456,120578,120660,120764,120884,121010,121108,121202,121290,121402,121518,121640,121752,121927,122043,122129,122221,122333,122457,122524,122650,122718,122846,122990,123118,123187,123282,123397,123510,123609,123718,123829,123940,124041,124146,124246,124376,124467,124590,124684,124796,124882,124986,125082,125157,125227,125315,125433,125537,125641,125767,125855,125963,126063,126153,126263,126347,126449,126533,126587,126651,126757,126867,126951",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,85,86,87,88,89,90,91,92,106,107,108,111,112,113,125,126,132,133,134,135,147,148,149,150,151,152,179,180,186,187,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,355,356,360,364,369,375,382,386,390,395,399,403,407,411,415,419,423,427,431,435,439,443,448,452,455,459,463,467,471,475,479,483,487,491,495,499,500,501,502,505,508,512,513,514,515,516,519,521,523,525,530,531,535,541,545,546,548,559,560,564,570,574,575,576,580,607,611,612,616,644,803,825,984,1006,1028,1035,1040,1062,1067,1072,1082,1091,1100,1104,1111,1119,1126,1127,1136,1139,1142,1147,1151,1155,1158,1159,1163,1167,1177,1182,1189,1195,1196,1199,1203,1208,1210,1212,1215,1218,1220,1224,1227,1234,1237,1240,1244,1246,1250,1252,1258,1260,1264,1272,1280,1292,1298,1307,1310,1321,1324,1329,1343,1348,1390,1433,1434,1444,1453,1454,1456,1460,1463,1466,1469,1472,1476,1479,1482,1485,1489,1492,1496,1500,1501,1502,1503,1504,1505,1506,1507,1508,1509,1510,1511,1512,1513,1514,1515,1516,1517,1518,1519,1520,1524,1528,1529,1530,1531,1532,1536,1537,1541,1542,1544,1546,1547,1548,1549,1550,1551,1552,1554,1555,1557,1558,1560,1562,1563,1565,1566,1567,1568,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1582,1584,1586,1587,1588,1589,1590,1591,1592,1593,1594,1595,1596,1597,1598,1600,1601,1602,1603,1604,1605,1607,1611,1615,1616,1617,1618,1619,1620,1621,1622,1624,1626,1628,1630,1632,1633,1634,1635,1637,1639,1641,1642,1643,1644,1645,1646,1647,1648,1649,1650,1651,1652,1655,1656,1657,1658,1660,1662,1663,1665,1666,1668,1670,1672,1673,1674,1675,1676,1677,1678,1679,1680,1681,1682,1683,1685,1686,1687,1688,1690,1691,1692,1693,1694,1695,1696,1698,1700,1702,1704,1705,1706,1707,1708,1709,1710,1711,1712,1713,1714,1715,1716,1717,1718",
+                        "endColumns": "54,44,48,40,54,57,61,67,77,80,60,74,75,76,77,84,81,75,75,76,77,105,105,78,79,56,57,73,74,64,65,71,72,66,67,58,58,58,58,58,53,53,52,53,53,53,53,68,62,88,73,78,72,73,70,71,71,72,56,57,72,73,73,74,71,72,69,70,1290,103,100,46,247,191,349,138,35,319,158,5063,111,160,35,422,83,220,158,258,177,438,187,127,780,216,375,384,458,244,35,152,68,68,69,73,75,63,76,75,76,63,64,68,76,74,68,67,76,65,96,64,68,98,70,58,57,56,58,70,71,71,71,71,67,67,58,62,89,90,59,65,66,65,69,63,52,112,57,62,64,64,74,72,71,48,60,60,60,61,63,63,63,64,62,59,60,65,58,59,61,70,59,67,85,86,89,86,87,81,82,89,90,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,56,47,48,50,33,46,48,45,31,63,61,59,69,73,77,92,69,77,53,69,84,47,45,70,77,77,71,73,73,73,79,72,68,71,76,51,72,73,68,74,73,73,88,69,52,70,77,89,87,95,12,88,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,136,130,104,12,12,12,111,111,104,116,12,12,12,12,12,87,12,12,12,81,12,12,99,12,12,12,93,88,12,12,12,101,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,117,12,12,12,12,12,12,12,63,12,12,12,12,12,12,93,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,61,12,12,85,12,12,12,12,12,12,12,12,12,12,12,12,12,12,83,95,95,97,99,101,101,101,101,101,99,95,111,128,122,130,130,97,113,93,12,12,68,115,127,63,12,68,12,69,12,12,95,111,99,115,95,111,12,135,12,129,12,12,140,12,134,111,127,12,131,129,129,111,139,67,72,73,72,73,12,12,12,65,89,75,103,89,101,107,107,99,79,91,97,12,77,105,91,103,109,12,12,12,79,99,89,109,93,105,91,12,12,12,12,12,93,113,111,12,12,12,81,103,119,125,97,93,87,111,115,121,111,12,115,85,91,12,12,66,12,67,12,12,12,68,94,114,112,98,108,110,110,100,104,99,12,90,122,93,12,85,103,95,74,69,87,12,12,12,12,87,107,99,89,109,83,101,83,53,63,105,109,83,119",
+                        "endOffsets": "105,150,199,240,295,353,415,483,561,642,703,778,854,931,1009,1094,1176,1252,1328,1405,1483,1589,1695,1774,1854,1911,1969,2043,2118,2183,2249,2321,2394,2461,2529,2588,2647,2706,2765,2824,2878,2932,2985,3039,3093,3147,3201,3270,3333,3422,3496,3575,3648,3722,3793,3865,3937,4010,4067,4125,4198,4272,4346,4421,4493,4566,4636,4707,6622,6726,6827,6874,7122,7314,7664,7803,8377,8697,8856,15259,15371,15532,16004,16427,17020,17241,17400,17659,18622,19061,19249,19377,20158,20375,21706,22091,23464,23709,24199,24352,24421,24490,24560,24634,24710,24774,24851,24927,25004,25068,25133,25202,25279,25354,25423,25491,25568,25634,25731,25796,25865,25964,26035,26094,26152,26209,26268,26339,26411,26483,26555,26627,26695,26763,26822,26885,26975,27066,27126,27192,27259,27325,27395,27459,27512,27625,27683,27746,27811,27876,27951,28024,28096,28145,28206,28267,28328,28390,28454,28518,28582,28647,28710,28770,28831,28897,28956,29016,29078,29149,29209,29277,29363,29450,29540,29627,29715,29797,29880,29970,30061,30122,30183,30245,30309,30371,30432,30500,30600,30660,30726,30799,30868,30925,30977,31039,31111,31187,31244,31292,31341,31392,31426,31473,31522,31568,31600,31664,31726,31786,31856,31930,32008,32101,32171,32249,32303,32373,32458,32506,32552,32623,32701,32779,32851,32925,32999,33073,33153,33226,33295,33367,33444,33496,33569,33643,33712,33787,33861,33935,34024,34094,34147,34218,34296,34386,34474,34570,35071,35160,35407,35688,35973,36366,36843,37065,37287,37555,37782,38012,38242,38472,38702,38929,39168,39394,39639,39869,40117,40336,40619,40827,40958,41185,41431,41656,41903,42124,42369,42645,42946,43270,43561,43875,44012,44143,44248,44452,44660,44931,45043,45155,45260,45377,45591,45737,45877,45963,46311,46399,46629,47047,47280,47362,47460,48077,48177,48413,48837,49076,49170,49259,49496,51548,51790,51892,52129,54313,64474,65725,75985,77248,78513,79049,79379,80644,80900,81136,81683,82177,82782,82980,83560,84124,84499,84617,85155,85312,85486,85806,86062,86232,86373,86437,86719,87005,87681,87945,88283,88636,88730,88916,89222,89484,89609,89736,89975,90186,90305,90498,90675,91130,91311,91433,91692,91805,91992,92094,92538,92662,92937,93445,93941,94818,95112,95682,95831,96563,96735,97071,98129,98407,101593,104922,104984,105614,106228,106314,106427,106656,106816,106968,107139,107306,107549,107719,107892,108063,108337,108536,108741,109071,109155,109251,109347,109445,109545,109647,109749,109851,109953,110055,110155,110251,110363,110492,110615,110746,110877,110975,111089,111183,111382,111586,111655,111771,111899,111963,112167,112236,112439,112509,112649,112783,112879,112991,113091,113207,113303,113415,113555,113691,113855,113985,114143,114293,114434,114578,114713,114825,114953,115089,115221,115351,115481,115593,115733,115801,115874,115948,116021,116095,116241,116385,116523,116589,116679,116755,116859,116949,117051,117159,117267,117367,117447,117539,117637,117747,117825,117931,118023,118127,118237,118359,118522,118679,118759,118859,118949,119059,119153,119259,119351,119451,119563,119677,119793,119909,120003,120117,120229,120331,120451,120573,120655,120759,120879,121005,121103,121197,121285,121397,121513,121635,121747,121922,122038,122124,122216,122328,122452,122519,122645,122713,122841,122985,123113,123182,123277,123392,123505,123604,123713,123824,123935,124036,124141,124241,124371,124462,124585,124679,124791,124877,124981,125077,125152,125222,125310,125428,125532,125636,125762,125850,125958,126058,126148,126258,126342,126444,126528,126582,126646,126752,126862,126946,127066"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,23,24,25,26,27,28,29,30,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,74,75,76,77,82,98,99,100,101,102,103,104,105,119,120,121,124,125,126,138,139,145,146,147,148,160,161,162,163,164,165,192,193,199,200,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,299,300,301,302,304,305,306,307,308,309,310,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,374,375,376,377,378,379,380,387,388,392,396,401,407,414,418,422,427,431,435,439,443,447,451,455,459,463,467,471,475,480,484,487,491,495,499,503,507,511,515,519,523,527,531,532,533,534,537,540,544,545,546,547,548,551,553,555,557,562,563,567,573,577,578,580,591,592,596,602,606,607,608,612,639,643,644,648,676,835,857,1016,1038,1060,1067,1072,1094,1099,1104,1114,1123,1132,1136,1143,1151,1158,1159,1168,1171,1174,1179,1183,1187,1190,1191,1195,1199,1209,1214,1221,1227,1228,1231,1235,1240,1242,1244,1247,1250,1252,1256,1259,1266,1269,1272,1276,1278,1282,1284,1290,1292,1296,1304,1312,1324,1330,1339,1342,1353,1356,1361,1375,1384,1426,1469,1470,1480,1489,1490,1492,1496,1499,1502,1505,1508,1512,1515,1518,1521,1525,1528,1532,1536,1537,1538,1539,1540,1541,1542,1543,1544,1545,1546,1547,1548,1549,1550,1551,1552,1553,1554,1555,1556,1560,1564,1565,1566,1567,1568,1572,1573,1577,1578,1580,1582,1583,1584,1585,1586,1587,1588,1590,1591,1593,1594,1596,1598,1599,1601,1602,1603,1604,1606,1607,1608,1609,1610,1611,1612,1613,1614,1615,1616,1618,1620,1622,1623,1624,1625,1626,1627,1628,1629,1630,1631,1632,1633,1634,1636,1637,1638,1639,1640,1641,1643,1647,1651,1652,1653,1654,1655,1656,1657,1658,1660,1662,1664,1666,1668,1669,1670,1671,1673,1675,1677,1678,1679,1680,1681,1682,1683,1684,1685,1686,1687,1688,1691,1692,1693,1694,1696,1698,1699,1701,1702,1704,1706,1708,1709,1710,1711,1712,1713,1714,1715,1716,1717,1718,1719,1721,1722,1723,1724,1726,1727,1728,1729,1730,1731,1732,1734,1736,1738,1740,1741,1742,1743,1744,1745,1746,1747,1748,1749,1750,1751,1752,1753",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,110,155,204,245,300,358,420,488,566,647,708,783,859,936,1014,1099,1233,1309,1427,1504,1582,1688,1794,1873,1953,2010,2267,2341,2416,2481,2547,2619,2692,2759,2827,2886,2945,3004,3063,3122,3176,3230,3283,3337,3391,3445,3499,3568,3631,3720,3794,3873,3946,4020,4091,4163,4235,4308,4365,4423,4496,4570,4644,4821,4893,4966,5036,5306,7221,7325,7426,7473,7721,7913,8263,8402,8976,9296,9455,15858,15970,16131,16603,17026,17619,17840,17999,18258,19221,19660,19848,19976,20757,20974,22305,22690,24063,24308,24798,24951,25020,25089,25159,25233,25309,25373,25450,25526,25603,25667,25732,25801,25878,25953,26022,26090,26167,26233,26330,26395,26464,26563,26634,26693,26751,26808,26867,26938,27010,27082,27154,27226,27294,27362,27421,27484,27574,27665,27725,27791,27858,27924,27994,28058,28111,28224,28282,28345,28410,28475,28550,28623,28695,28744,28805,28866,28927,28989,29053,29117,29181,29246,29309,29369,29430,29496,29555,29615,29677,29748,29808,29876,29962,30049,30139,30226,30314,30396,30479,30569,30660,30721,30782,30844,30972,31034,31095,31163,31317,31377,31443,31516,31585,31642,31694,32250,32322,32398,32455,32503,32552,32603,32637,32684,32733,32779,32811,32875,32937,32997,33067,33141,33219,33312,33382,33460,33514,33584,33669,33717,33763,33834,33912,33990,34062,34136,34210,34284,34364,34437,34506,34578,34655,34707,34780,34854,34923,34998,35072,35146,35235,35742,35795,35866,35944,36034,36122,36218,36719,36808,37055,37336,37621,38014,38491,38713,38935,39203,39430,39660,39890,40120,40350,40577,40816,41042,41287,41517,41765,41984,42267,42475,42606,42833,43079,43304,43551,43772,44017,44293,44594,44918,45209,45523,45660,45791,45896,46100,46308,46579,46691,46803,46908,47025,47239,47385,47525,47611,47959,48047,48277,48695,48928,49010,49108,49725,49825,50061,50485,50724,50818,50907,51144,53196,53438,53540,53777,55961,66122,67373,77633,78896,80161,80697,81027,82292,82548,82784,83331,83825,84430,84628,85208,85772,86147,86265,86803,86960,87134,87454,87710,87880,88021,88085,88367,88653,89329,89593,89931,90284,90378,90564,90870,91132,91257,91384,91623,91834,91953,92146,92323,92778,92959,93081,93340,93453,93640,93742,94186,94310,94585,95093,95589,96466,96760,97330,97479,98211,98383,98719,99777,100227,103413,106742,106804,107434,108048,108134,108247,108476,108636,108788,108959,109126,109369,109539,109712,109883,110157,110356,110561,110891,110975,111071,111167,111265,111365,111467,111569,111671,111773,111875,111975,112071,112183,112312,112435,112566,112697,112795,112909,113003,113202,113406,113475,113591,113719,113783,113987,114056,114259,114329,114469,114603,114699,114811,114911,115027,115123,115235,115375,115511,115675,115805,115963,116113,116254,116398,116533,116645,116773,116909,117041,117171,117301,117413,117553,117621,117694,117768,117841,117915,118061,118205,118343,118409,118499,118575,118679,118769,118871,118979,119087,119187,119267,119359,119457,119567,119645,119751,119843,119947,120057,120179,120342,120499,120579,120679,120769,120879,120973,121079,121171,121271,121383,121497,121613,121729,121823,121937,122049,122151,122271,122393,122475,122579,122699,122825,122923,123017,123105,123217,123333,123455,123567,123742,123858,123944,124036,124148,124272,124339,124465,124533,124661,124805,124933,125002,125097,125212,125325,125424,125533,125644,125755,125856,125961,126061,126191,126282,126405,126499,126611,126697,126801,126897,126972,127042,127130,127248,127352,127456,127582,127670,127778,127878,127968,128078,128162,128264,128348,128402,128466,128572,128682,128766",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,23,24,25,26,27,28,29,30,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,74,75,76,77,97,98,99,100,101,102,103,104,118,119,120,123,124,125,137,138,144,145,146,147,159,160,161,162,163,164,191,192,198,199,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,299,300,301,302,304,305,306,307,308,309,310,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,374,375,376,377,378,379,386,387,391,395,400,406,413,417,421,426,430,434,438,442,446,450,454,458,462,466,470,474,479,483,486,490,494,498,502,506,510,514,518,522,526,530,531,532,533,536,539,543,544,545,546,547,550,552,554,556,561,562,566,572,576,577,579,590,591,595,601,605,606,607,611,638,642,643,647,675,834,856,1015,1037,1059,1066,1071,1093,1098,1103,1113,1122,1131,1135,1142,1150,1157,1158,1167,1170,1173,1178,1182,1186,1189,1190,1194,1198,1208,1213,1220,1226,1227,1230,1234,1239,1241,1243,1246,1249,1251,1255,1258,1265,1268,1271,1275,1277,1281,1283,1289,1291,1295,1303,1311,1323,1329,1338,1341,1352,1355,1360,1374,1379,1425,1468,1469,1479,1488,1489,1491,1495,1498,1501,1504,1507,1511,1514,1517,1520,1524,1527,1531,1535,1536,1537,1538,1539,1540,1541,1542,1543,1544,1545,1546,1547,1548,1549,1550,1551,1552,1553,1554,1555,1559,1563,1564,1565,1566,1567,1571,1572,1576,1577,1579,1581,1582,1583,1584,1585,1586,1587,1589,1590,1592,1593,1595,1597,1598,1600,1601,1602,1603,1605,1606,1607,1608,1609,1610,1611,1612,1613,1614,1615,1617,1619,1621,1622,1623,1624,1625,1626,1627,1628,1629,1630,1631,1632,1633,1635,1636,1637,1638,1639,1640,1642,1646,1650,1651,1652,1653,1654,1655,1656,1657,1659,1661,1663,1665,1667,1668,1669,1670,1672,1674,1676,1677,1678,1679,1680,1681,1682,1683,1684,1685,1686,1687,1690,1691,1692,1693,1695,1697,1698,1700,1701,1703,1705,1707,1708,1709,1710,1711,1712,1713,1714,1715,1716,1717,1718,1720,1721,1722,1723,1725,1726,1727,1728,1729,1730,1731,1733,1735,1737,1739,1740,1741,1742,1743,1744,1745,1746,1747,1748,1749,1750,1751,1752,1753",
+                        "endColumns": "54,44,48,40,54,57,61,67,77,80,60,74,75,76,77,84,81,75,75,76,77,105,105,78,79,56,57,73,74,64,65,71,72,66,67,58,58,58,58,58,53,53,52,53,53,53,53,68,62,88,73,78,72,73,70,71,71,72,56,57,72,73,73,74,71,72,69,70,1290,103,100,46,247,191,349,138,35,319,158,5063,111,160,35,422,83,220,158,258,177,438,187,127,780,216,375,384,458,244,35,152,68,68,69,73,75,63,76,75,76,63,64,68,76,74,68,67,76,65,96,64,68,98,70,58,57,56,58,70,71,71,71,71,67,67,58,62,89,90,59,65,66,65,69,63,52,112,57,62,64,64,74,72,71,48,60,60,60,61,63,63,63,64,62,59,60,65,58,59,61,70,59,67,85,86,89,86,87,81,82,89,90,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,56,47,48,50,33,46,48,45,31,63,61,59,69,73,77,92,69,77,53,69,84,47,45,70,77,77,71,73,73,73,79,72,68,71,76,51,72,73,68,74,73,73,88,69,52,70,77,89,87,95,12,88,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,136,130,104,12,12,12,111,111,104,116,12,12,12,12,12,87,12,12,12,81,12,12,99,12,12,12,93,88,12,12,12,101,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,117,12,12,12,12,12,12,12,63,12,12,12,12,12,12,93,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,61,12,12,85,12,12,12,12,12,12,12,12,12,12,12,12,12,12,83,95,95,97,99,101,101,101,101,101,99,95,111,128,122,130,130,97,113,93,12,12,68,115,127,63,12,68,12,69,12,12,95,111,99,115,95,111,12,135,12,129,12,12,140,12,134,111,127,12,131,129,129,111,139,67,72,73,72,73,12,12,12,65,89,75,103,89,101,107,107,99,79,91,97,12,77,105,91,103,109,12,12,12,79,99,89,109,93,105,91,12,12,12,12,12,93,113,111,12,12,12,81,103,119,125,97,93,87,111,115,121,111,12,115,85,91,12,12,66,12,67,12,12,12,68,94,114,112,98,108,110,110,100,104,99,12,90,122,93,12,85,103,95,74,69,87,12,12,12,12,87,107,99,89,109,83,101,83,53,63,105,109,83,119",
+                        "endOffsets": "105,150,199,240,295,353,415,483,561,642,703,778,854,931,1009,1094,1176,1304,1380,1499,1577,1683,1789,1868,1948,2005,2063,2336,2411,2476,2542,2614,2687,2754,2822,2881,2940,2999,3058,3117,3171,3225,3278,3332,3386,3440,3494,3563,3626,3715,3789,3868,3941,4015,4086,4158,4230,4303,4360,4418,4491,4565,4639,4714,4888,4961,5031,5102,7216,7320,7421,7468,7716,7908,8258,8397,8971,9291,9450,15853,15965,16126,16598,17021,17614,17835,17994,18253,19216,19655,19843,19971,20752,20969,22300,22685,24058,24303,24793,24946,25015,25084,25154,25228,25304,25368,25445,25521,25598,25662,25727,25796,25873,25948,26017,26085,26162,26228,26325,26390,26459,26558,26629,26688,26746,26803,26862,26933,27005,27077,27149,27221,27289,27357,27416,27479,27569,27660,27720,27786,27853,27919,27989,28053,28106,28219,28277,28340,28405,28470,28545,28618,28690,28739,28800,28861,28922,28984,29048,29112,29176,29241,29304,29364,29425,29491,29550,29610,29672,29743,29803,29871,29957,30044,30134,30221,30309,30391,30474,30564,30655,30716,30777,30839,30903,31029,31090,31158,31258,31372,31438,31511,31580,31637,31689,31751,32317,32393,32450,32498,32547,32598,32632,32679,32728,32774,32806,32870,32932,32992,33062,33136,33214,33307,33377,33455,33509,33579,33664,33712,33758,33829,33907,33985,34057,34131,34205,34279,34359,34432,34501,34573,34650,34702,34775,34849,34918,34993,35067,35141,35230,35300,35790,35861,35939,36029,36117,36213,36714,36803,37050,37331,37616,38009,38486,38708,38930,39198,39425,39655,39885,40115,40345,40572,40811,41037,41282,41512,41760,41979,42262,42470,42601,42828,43074,43299,43546,43767,44012,44288,44589,44913,45204,45518,45655,45786,45891,46095,46303,46574,46686,46798,46903,47020,47234,47380,47520,47606,47954,48042,48272,48690,48923,49005,49103,49720,49820,50056,50480,50719,50813,50902,51139,53191,53433,53535,53772,55956,66117,67368,77628,78891,80156,80692,81022,82287,82543,82779,83326,83820,84425,84623,85203,85767,86142,86260,86798,86955,87129,87449,87705,87875,88016,88080,88362,88648,89324,89588,89926,90279,90373,90559,90865,91127,91252,91379,91618,91829,91948,92141,92318,92773,92954,93076,93335,93448,93635,93737,94181,94305,94580,95088,95584,96461,96755,97325,97474,98206,98378,98714,99772,100050,103408,106737,106799,107429,108043,108129,108242,108471,108631,108783,108954,109121,109364,109534,109707,109878,110152,110351,110556,110886,110970,111066,111162,111260,111360,111462,111564,111666,111768,111870,111970,112066,112178,112307,112430,112561,112692,112790,112904,112998,113197,113401,113470,113586,113714,113778,113982,114051,114254,114324,114464,114598,114694,114806,114906,115022,115118,115230,115370,115506,115670,115800,115958,116108,116249,116393,116528,116640,116768,116904,117036,117166,117296,117408,117548,117616,117689,117763,117836,117910,118056,118200,118338,118404,118494,118570,118674,118764,118866,118974,119082,119182,119262,119354,119452,119562,119640,119746,119838,119942,120052,120174,120337,120494,120574,120674,120764,120874,120968,121074,121166,121266,121378,121492,121608,121724,121818,121932,122044,122146,122266,122388,122470,122574,122694,122820,122918,123012,123100,123212,123328,123450,123562,123737,123853,123939,124031,124143,124267,124334,124460,124528,124656,124800,124928,124997,125092,125207,125320,125419,125528,125639,125750,125851,125956,126056,126186,126277,126400,126494,126606,126692,126796,126892,126967,127037,127125,127243,127347,127451,127577,127665,127773,127873,127963,128073,128157,128259,128343,128397,128461,128567,128677,128761,128881"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,501,615,703,806,933,1013,1093,1179,1283,1389,1487,1594,1700,1806,1926,2022,2103",
+                        "endColumns": "107,107,122,106,113,87,102,126,79,79,85,103,105,97,106,105,105,119,95,80,100",
+                        "endOffsets": "158,266,389,496,610,698,801,928,1008,1088,1174,1278,1384,1482,1589,1695,1801,1921,2017,2098,2199"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,265,388,487,593,679,782,895,973,1051,1130,1230,1330,1426,1529,1628,1735,1851,1947,2026",
+                        "endColumns": "101,107,122,98,105,85,102,112,77,77,78,99,99,95,102,98,106,115,95,78,100",
+                        "endOffsets": "152,260,383,482,588,674,777,890,968,1046,1125,1225,1325,1421,1524,1623,1730,1846,1942,2021,2122"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,257,380,473,573,655,752,860,936,1012,1090,1186,1282,1377,1474,1569,1669,1782,1876,1954",
+                        "endColumns": "94,106,122,92,99,81,96,107,75,75,77,95,95,94,96,94,99,112,93,77,100",
+                        "endOffsets": "145,252,375,468,568,650,747,855,931,1007,1085,1181,1277,1372,1469,1564,1664,1777,1871,1949,2050"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-sq-rAL_values-sq-rAL.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,500,612,699,809,932,1013,1092,1175,1281,1386,1484,1590,1693,1809,1940,2039,2120",
+                        "endColumns": "113,107,122,99,111,86,109,122,80,78,82,105,104,97,105,102,115,130,98,80,100",
+                        "endOffsets": "164,272,395,495,607,694,804,927,1008,1087,1170,1276,1381,1479,1585,1688,1804,1935,2034,2115,2216"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-port_values-port.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,269,392,495,606,691,793,906,982,1058,1138,1244,1344,1440,1545,1647,1749,1866,1968,2047",
+                        "endColumns": "105,107,122,102,110,84,101,112,75,75,79,105,99,95,104,101,101,116,101,78,100",
+                        "endOffsets": "156,264,387,490,601,686,788,901,977,1053,1133,1239,1339,1435,1540,1642,1744,1861,1963,2042,2143"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,281,409,516,621,707,812,933,1012,1090,1173,1287,1396,1496,1610,1716,1824,1947,2046,2129",
+                        "endColumns": "114,110,127,106,104,85,104,120,78,77,82,113,108,99,113,105,107,122,98,82,100",
+                        "endOffsets": "165,276,404,511,616,702,807,928,1007,1085,1168,1282,1391,1491,1605,1711,1819,1942,2041,2124,2225"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-km-rKH_values-km-rKH.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-km-rKH\\values-km-rKH.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-si-rLK_values-si-rLK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,273,396,503,610,698,803,919,1008,1095,1179,1288,1393,1491,1601,1700,1806,1927,2026,2108",
+                        "endColumns": "109,107,122,106,106,87,104,115,88,86,83,108,104,97,109,98,105,120,98,81,100",
+                        "endOffsets": "160,268,391,498,605,693,798,914,1003,1090,1174,1283,1388,1486,1596,1695,1801,1922,2021,2103,2204"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,516,624,709,810,938,1014,1090,1172,1279,1379,1478,1586,1693,1800,1922,2022,2104",
+                        "endColumns": "116,107,122,112,107,84,100,127,75,75,81,106,99,98,107,106,106,121,99,81,100",
+                        "endOffsets": "167,275,398,511,619,704,805,933,1009,1085,1167,1274,1374,1473,1581,1688,1795,1917,2017,2099,2200"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "14,16,15,12,13,11,4,8,7,5,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "563,690,628,432,485,369,84,283,234,138,186",
+                        "endColumns": "63,53,60,51,76,61,52,46,47,46,46",
+                        "endOffsets": "622,739,684,479,557,426,132,325,277,180,228"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,119,173,234,286,363,425,478,525,573,620",
+                        "endColumns": "63,53,60,51,76,61,52,46,47,46,46",
+                        "endOffsets": "114,168,229,281,358,420,473,520,568,615,662"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,495,604,688,797,922,999,1075,1156,1262,1370,1468,1572,1677,1784,1906,2006,2089",
+                        "endColumns": "108,107,122,99,108,83,108,124,76,75,80,105,107,97,103,104,106,121,99,82,100",
+                        "endOffsets": "159,267,390,490,599,683,792,917,994,1070,1151,1257,1365,1463,1567,1672,1779,1901,2001,2084,2185"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-is-rIS_values-is-rIS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,263,386,483,595,680,781,895,975,1055,1136,1246,1354,1452,1561,1660,1763,1881,1979,2060",
+                        "endColumns": "99,107,122,96,111,84,100,113,79,79,80,109,107,97,108,98,102,117,97,80,100",
+                        "endOffsets": "150,258,381,478,590,675,776,890,970,1050,1131,1241,1349,1447,1556,1655,1758,1876,1974,2055,2156"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,270,393,500,608,695,798,917,1002,1086,1170,1278,1387,1487,1600,1707,1811,1928,2025,2108",
+                        "endColumns": "106,107,122,106,107,86,102,118,84,83,83,107,108,99,112,106,103,116,96,82,100",
+                        "endOffsets": "157,265,388,495,603,690,793,912,997,1081,1165,1273,1382,1482,1595,1702,1806,1923,2020,2103,2204"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ml-rIN_values-ml-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,174,282,405,523,638,731,836,968,1045,1121,1203,1314,1420,1518,1632,1732,1843,1971,2072,2154",
+                        "endColumns": "118,107,122,117,114,92,104,131,76,75,81,110,105,97,113,99,110,127,100,81,100",
+                        "endOffsets": "169,277,400,518,633,726,831,963,1040,1116,1198,1309,1415,1513,1627,1727,1838,1966,2067,2149,2250"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,510,617,700,808,934,1018,1099,1182,1293,1402,1500,1610,1714,1822,1945,2044,2125",
+                        "endColumns": "117,107,122,105,106,82,107,125,83,80,82,110,108,97,109,103,107,122,98,80,100",
+                        "endOffsets": "168,276,399,505,612,695,803,929,1013,1094,1177,1288,1397,1495,1605,1709,1817,1940,2039,2120,2221"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ms-rMY_values-ms-rMY.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,274,397,502,610,697,801,912,990,1069,1149,1261,1370,1467,1576,1679,1786,1908,2009,2089",
+                        "endColumns": "110,107,122,104,107,86,103,110,77,78,79,111,108,96,108,102,106,121,100,79,100",
+                        "endOffsets": "161,269,392,497,605,692,796,907,985,1064,1144,1256,1365,1462,1571,1674,1781,1903,2004,2084,2185"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-bs-rBA_values-bs-rBA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-bs-rBA\\values-bs-rBA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,174,282,405,514,621,709,810,932,1014,1095,1181,1284,1389,1487,1592,1703,1808,1928,2025,2109",
+                        "endColumns": "118,107,122,108,106,87,100,121,81,80,85,102,104,97,104,110,104,119,96,83,100",
+                        "endOffsets": "169,277,400,509,616,704,805,927,1009,1090,1176,1279,1384,1482,1587,1698,1803,1923,2020,2104,2205"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v17_values-v17.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
+                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,271,395,497,606,692,797,914,995,1076,1160,1264,1373,1472,1578,1688,1795,1917,2015,2097",
+                        "endColumns": "106,108,123,101,108,85,104,116,80,80,83,103,108,98,105,109,106,121,97,81,100",
+                        "endOffsets": "157,266,390,492,601,687,792,909,990,1071,1155,1259,1368,1467,1573,1683,1790,1912,2010,2092,2193"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,512,619,708,809,927,1010,1090,1177,1284,1396,1498,1606,1713,1823,1948,2048,2133",
+                        "endColumns": "119,107,122,105,106,88,100,117,82,79,86,106,111,101,107,106,109,124,99,84,100",
+                        "endOffsets": "170,278,401,507,614,703,804,922,1005,1085,1172,1279,1391,1493,1601,1708,1818,1943,2043,2128,2229"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,507,616,698,799,913,992,1071,1150,1255,1356,1452,1560,1663,1766,1885,1982,2063",
+                        "endColumns": "116,107,122,103,108,81,100,113,78,78,78,104,100,95,107,102,102,118,96,80,100",
+                        "endOffsets": "167,275,398,502,611,693,794,908,987,1066,1145,1250,1351,1447,1555,1658,1761,1880,1977,2058,2159"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES_values-gl-rES.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,167,275,398,510,618,703,805,931,1015,1096,1178,1285,1394,1493,1601,1704,1811,1933,2033,2115",
+                        "endColumns": "111,107,122,111,107,84,101,125,83,80,81,106,108,98,107,102,106,121,99,81,100",
+                        "endOffsets": "162,270,393,505,613,698,800,926,1010,1091,1173,1280,1389,1488,1596,1699,1806,1928,2028,2110,2211"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-my-rMM_values-my-rMM.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,397,502,619,712,824,952,1030,1109,1195,1318,1430,1532,1658,1769,1879,2002,2102,2186",
+                        "endColumns": "108,107,124,104,116,92,111,127,77,78,85,122,111,101,125,110,109,122,99,83,100",
+                        "endOffsets": "159,267,392,497,614,707,819,947,1025,1104,1190,1313,1425,1527,1653,1764,1874,1997,2097,2181,2282"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v13_values-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969,2051",
+                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,81,100",
+                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2046,2147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969,2051",
+                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,81,100",
+                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2046,2147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,274,397,512,623,710,826,956,1039,1119,1215,1325,1437,1540,1651,1758,1860,1982,2081,2167",
+                        "endColumns": "110,107,122,114,110,86,115,129,82,79,95,109,111,102,110,106,101,121,98,85,100",
+                        "endOffsets": "161,269,392,507,618,705,821,951,1034,1114,1210,1320,1432,1535,1646,1753,1855,1977,2076,2162,2263"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,512,619,708,809,933,1017,1098,1185,1292,1404,1506,1614,1721,1828,1950,2049,2134",
+                        "endColumns": "119,107,122,105,106,88,100,123,83,80,86,106,111,101,107,106,106,121,98,84,100",
+                        "endOffsets": "170,278,401,507,614,703,804,928,1012,1093,1180,1287,1399,1501,1609,1716,1823,1945,2044,2129,2230"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,487,595,685,790,907,989,1072,1154,1255,1364,1463,1570,1679,1784,1903,2000,2082",
+                        "endColumns": "102,107,122,97,107,89,104,116,81,82,81,100,108,98,106,108,104,118,96,81,100",
+                        "endOffsets": "153,261,384,482,590,680,785,902,984,1067,1149,1250,1359,1458,1565,1674,1779,1898,1995,2077,2178"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ne-rNP_values-ne-rNP.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,495,603,694,801,928,1022,1112,1200,1310,1426,1529,1644,1746,1861,1992,2104,2190",
+                        "endColumns": "104,107,122,103,107,90,106,126,93,89,87,109,115,102,114,101,114,130,111,85,100",
+                        "endOffsets": "155,263,386,490,598,689,796,923,1017,1107,1195,1305,1421,1524,1639,1741,1856,1987,2099,2185,2286"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-eu-rES_values-eu-rES.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,493,603,689,795,919,1006,1090,1172,1281,1391,1490,1599,1712,1823,1960,2059,2141",
+                        "endColumns": "108,107,122,97,109,85,105,123,86,83,81,108,109,98,108,112,110,136,98,81,100",
+                        "endOffsets": "159,267,390,488,598,684,790,914,1001,1085,1167,1276,1386,1485,1594,1707,1818,1955,2054,2136,2237"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-lo-rLA_values-lo-rLA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,486,593,678,783,895,972,1050,1130,1237,1334,1432,1537,1640,1744,1866,1962,2043",
+                        "endColumns": "102,107,122,96,106,84,104,111,76,77,79,106,96,97,104,102,103,121,95,80,100",
+                        "endOffsets": "153,261,384,481,588,673,778,890,967,1045,1125,1232,1329,1427,1532,1635,1739,1861,1957,2038,2139"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,275,401,504,615,699,802,917,996,1074,1155,1267,1370,1468,1578,1681,1790,1915,2016,2097",
+                        "endColumns": "109,109,125,102,110,83,102,114,78,77,80,111,102,97,109,102,108,124,100,80,100",
+                        "endOffsets": "160,270,396,499,610,694,797,912,991,1069,1150,1262,1365,1463,1573,1676,1785,1910,2011,2092,2193"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,509,616,702,810,930,1007,1084,1166,1277,1381,1480,1595,1708,1811,1929,2032,2114",
+                        "endColumns": "117,107,122,104,106,85,107,119,76,76,81,110,103,98,114,112,102,117,102,81,100",
+                        "endOffsets": "168,276,399,504,611,697,805,925,1002,1079,1161,1272,1376,1475,1590,1703,1806,1924,2027,2109,2210"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v22_values-v22.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,508,617,701,804,923,1000,1077,1161,1265,1374,1475,1580,1694,1799,1919,2018,2102",
+                        "endColumns": "113,107,122,107,108,83,102,118,76,76,83,103,108,100,104,113,104,119,98,83,100",
+                        "endOffsets": "164,272,395,503,612,696,799,918,995,1072,1156,1260,1369,1470,1575,1689,1794,1914,2013,2097,2198"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v23_values-v23.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,490,602,687,793,913,992,1068,1147,1254,1359,1455,1562,1664,1772,1891,1989,2068",
+                        "endColumns": "104,107,122,98,111,84,105,119,78,75,78,106,104,95,106,101,107,118,97,78,100",
+                        "endOffsets": "155,263,386,485,597,682,788,908,987,1063,1142,1249,1354,1450,1557,1659,1767,1886,1984,2063,2164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ta-rIN_values-ta-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,505,620,709,816,942,1023,1103,1185,1287,1391,1488,1598,1700,1807,1926,2026,2106",
+                        "endColumns": "113,107,122,104,114,88,106,125,80,79,81,101,103,96,109,101,106,118,99,79,100",
+                        "endOffsets": "164,272,395,500,615,704,811,937,1018,1098,1180,1282,1386,1483,1593,1695,1802,1921,2021,2101,2202"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,488,600,683,783,896,973,1050,1129,1238,1346,1442,1556,1658,1759,1875,1972,2051",
+                        "endColumns": "102,107,122,98,111,82,99,112,76,76,78,108,107,95,113,101,100,115,96,78,100",
+                        "endOffsets": "153,261,384,483,595,678,778,891,968,1045,1124,1233,1341,1437,1551,1653,1754,1870,1967,2046,2147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,498,604,690,794,912,993,1073,1161,1266,1374,1475,1579,1687,1788,1916,2013,2097",
+                        "endColumns": "108,107,122,102,105,85,103,117,80,79,87,104,107,100,103,107,100,127,96,83,100",
+                        "endOffsets": "159,267,390,493,599,685,789,907,988,1068,1156,1261,1369,1470,1574,1682,1783,1911,2008,2092,2193"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,257,380,473,573,655,752,860,936,1012,1090,1186,1282,1377,1474,1569,1667,1780,1874,1952",
+                        "endColumns": "94,106,122,92,99,81,96,107,75,75,77,95,95,94,96,94,97,112,93,77,101",
+                        "endOffsets": "145,252,375,468,568,650,747,855,931,1007,1085,1181,1277,1372,1469,1564,1662,1775,1869,1947,2049"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,596,681,784,902,978,1055,1136,1243,1346,1443,1551,1653,1755,1872,1970,2050",
+                        "endColumns": "103,107,122,99,105,84,102,117,75,76,80,106,102,96,107,101,101,116,97,79,100",
+                        "endOffsets": "154,262,385,485,591,676,779,897,973,1050,1131,1238,1341,1438,1546,1648,1750,1867,1965,2045,2146"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,515,623,708,809,932,1017,1099,1181,1293,1405,1506,1614,1721,1828,1950,2050,2132",
+                        "endColumns": "119,107,122,108,107,84,100,122,84,81,81,111,111,100,107,106,106,121,99,81,100",
+                        "endOffsets": "170,278,401,510,618,703,804,927,1012,1094,1176,1288,1400,1501,1609,1716,1823,1945,2045,2127,2228"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-gu-rIN_values-gu-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,499,606,693,794,917,994,1072,1152,1258,1360,1457,1566,1665,1775,1896,1999,2079",
+                        "endColumns": "108,107,122,103,106,86,100,122,76,77,79,105,101,96,108,98,109,120,102,79,100",
+                        "endOffsets": "159,267,390,494,601,688,789,912,989,1067,1147,1253,1355,1452,1561,1660,1770,1891,1994,2074,2175"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,278,401,503,615,701,806,926,1005,1083,1163,1269,1377,1475,1584,1690,1798,1934,2034,2115",
+                        "endColumns": "114,107,122,101,111,85,104,119,78,77,79,105,107,97,108,105,107,135,99,80,100",
+                        "endOffsets": "165,273,396,498,610,696,801,921,1000,1078,1158,1264,1372,1470,1579,1685,1793,1929,2029,2110,2211"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,171,279,402,503,616,703,812,933,1015,1096,1181,1290,1399,1499,1609,1713,1826,1956,2057,2140",
+                        "endColumns": "115,107,122,100,112,86,108,120,81,80,84,108,108,99,109,103,112,129,100,82,100",
+                        "endOffsets": "166,274,397,498,611,698,807,928,1010,1091,1176,1285,1394,1494,1604,1708,1821,1951,2052,2135,2236"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ur-rPK_values-ur-rPK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ur-rPK\\values-ur-rPK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,273,396,502,611,697,801,921,997,1073,1158,1266,1375,1477,1588,1688,1796,1925,2023,2103",
+                        "endColumns": "109,107,122,105,108,85,103,119,75,75,84,107,108,101,110,99,107,128,97,79,102",
+                        "endOffsets": "160,268,391,497,606,692,796,916,992,1068,1153,1261,1370,1472,1583,1683,1791,1920,2018,2098,2201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v18_values-v18.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,489,597,686,788,898,975,1053,1134,1242,1346,1444,1552,1657,1758,1874,1969,2050",
+                        "endColumns": "104,107,122,97,107,88,101,109,76,77,80,107,103,97,107,104,100,115,94,80,100",
+                        "endOffsets": "155,263,386,484,592,681,783,893,970,1048,1129,1237,1341,1439,1547,1652,1753,1869,1964,2045,2146"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,499,605,691,795,913,995,1076,1164,1270,1378,1479,1584,1692,1793,1921,2018,2102",
+                        "endColumns": "108,107,122,103,105,85,103,117,81,80,87,105,107,100,104,107,100,127,96,83,100",
+                        "endOffsets": "159,267,390,494,600,686,790,908,990,1071,1159,1265,1373,1474,1579,1687,1788,1916,2013,2097,2198"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895,1317,1437,1569,1689,1752,1906,1969",
+                        "endLines": "6,7,8,14,20,21,22,23,24,27,28,29",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "326,397,480,890,1312,1432,1564,1684,1747,1901,1964,2096"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN_values-te-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,509,620,710,815,940,1022,1104,1189,1302,1410,1510,1621,1723,1840,1967,2068,2151",
+                        "endColumns": "113,107,122,108,110,89,104,124,81,81,84,112,107,99,110,101,116,126,100,82,100",
+                        "endOffsets": "164,272,395,504,615,705,810,935,1017,1099,1184,1297,1405,1505,1616,1718,1835,1962,2063,2146,2247"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,272,397,492,606,692,792,905,981,1057,1137,1240,1339,1435,1539,1637,1738,1854,1951,2030",
+                        "endColumns": "107,108,124,94,113,85,99,112,75,75,79,102,98,95,103,97,100,115,96,78,100",
+                        "endOffsets": "158,267,392,487,601,687,787,900,976,1052,1132,1235,1334,1430,1534,1632,1733,1849,1946,2025,2126"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4_values-xlarge-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,490,598,682,782,897,974,1050,1132,1235,1339,1438,1543,1646,1750,1869,1969,2051",
+                        "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,81,100",
+                        "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,2046,2147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,494,595,681,786,904,991,1073,1153,1260,1363,1460,1566,1665,1769,1888,1987,2067",
+                        "endColumns": "107,107,122,99,100,85,104,117,86,81,79,106,102,96,105,98,103,118,98,79,100",
+                        "endOffsets": "158,266,389,489,590,676,781,899,986,1068,1148,1255,1358,1455,1561,1660,1764,1883,1982,2062,2163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-v12_values-v12.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-v12\\values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,171,279,402,504,612,698,807,926,1004,1081,1163,1272,1381,1480,1589,1700,1808,1931,2027,2109",
+                        "endColumns": "115,107,122,101,107,85,108,118,77,76,81,108,108,98,108,110,107,122,95,81,100",
+                        "endOffsets": "166,274,397,499,607,693,802,921,999,1076,1158,1267,1376,1475,1584,1695,1803,1926,2022,2104,2205"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,515,632,717,822,948,1036,1122,1207,1318,1428,1530,1641,1750,1858,1981,2081,2166",
+                        "endColumns": "117,107,122,110,116,84,104,125,87,85,84,110,109,101,110,108,107,122,99,84,100",
+                        "endOffsets": "168,276,399,510,627,712,817,943,1031,1117,1202,1313,1423,1525,1636,1745,1853,1976,2076,2161,2262"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-uz-rUZ_values-uz-rUZ.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,495,609,695,806,922,1002,1081,1165,1274,1381,1482,1590,1695,1802,1926,2025,2109",
+                        "endColumns": "104,107,122,103,113,85,110,115,79,78,83,108,106,100,107,104,106,123,98,83,100",
+                        "endOffsets": "155,263,386,490,604,690,801,917,997,1076,1160,1269,1376,1477,1585,1690,1797,1921,2020,2104,2205"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,259,380,473,578,660,758,866,943,1019,1097,1199,1298,1393,1496,1591,1687,1798,1895,1973",
+                        "endColumns": "96,106,120,92,104,81,97,107,76,75,77,101,98,94,102,94,95,110,96,77,100",
+                        "endOffsets": "147,254,375,468,573,655,753,861,938,1014,1092,1194,1293,1388,1491,1586,1682,1793,1890,1968,2069"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,489,601,687,792,907,984,1060,1142,1253,1356,1455,1566,1668,1775,1897,1999,2081",
+                        "endColumns": "104,107,122,97,111,85,104,114,76,75,81,110,102,98,110,101,106,121,101,81,100",
+                        "endOffsets": "155,263,386,484,596,682,787,902,979,1055,1137,1248,1351,1450,1561,1663,1770,1892,1994,2076,2177"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-et-rEE_values-et-rEE.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,510,621,707,809,926,1006,1084,1167,1278,1383,1482,1592,1693,1796,1924,2026,2108",
+                        "endColumns": "116,107,122,106,110,85,101,116,79,77,82,110,104,98,109,100,102,127,101,81,100",
+                        "endOffsets": "167,275,398,505,616,702,804,921,1001,1079,1162,1273,1378,1477,1587,1688,1791,1919,2021,2103,2204"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-mr-rIN_values-mr-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,510,617,707,808,923,1000,1078,1158,1270,1372,1468,1577,1678,1793,1916,2021,2101",
+                        "endColumns": "117,107,122,105,106,89,100,114,76,77,79,111,101,95,108,100,114,122,104,79,100",
+                        "endOffsets": "168,276,399,505,612,702,803,918,995,1073,1153,1265,1367,1463,1572,1673,1788,1911,2016,2096,2197"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,174,282,405,513,630,718,824,945,1024,1102,1186,1295,1406,1507,1617,1734,1842,1965,2067,2151",
+                        "endColumns": "118,107,122,107,116,87,105,120,78,77,83,108,110,100,109,116,107,122,101,83,100",
+                        "endOffsets": "169,277,400,508,625,713,819,940,1019,1097,1181,1290,1401,1502,1612,1729,1837,1960,2062,2146,2247"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-be-rBY_values-be-rBY.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-be-rBY\\values-be-rBY.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,509,625,711,819,937,1016,1094,1177,1283,1389,1487,1595,1700,1805,1925,2025,2106",
+                        "endColumns": "119,107,122,102,115,85,107,117,78,77,82,105,105,97,107,104,104,119,99,80,108",
+                        "endOffsets": "170,278,401,504,620,706,814,932,1011,1089,1172,1278,1384,1482,1590,1695,1800,1920,2020,2101,2210"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-mk-rMK_values-mk-rMK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kishan\\Documents\\GitHub\\Android-Music-Player\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kishan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\b2cdb4589a98159a2af8ae4596e40fed\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    }
+                }
+            ]
+        }
+    ]
+}
