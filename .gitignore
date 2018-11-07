@@ -1,4 +1,4 @@
-./app/build/*
+app/build/*
 .gradle/*
 .idea/*
 *.class
