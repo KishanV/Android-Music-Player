@@ -4,7 +4,7 @@
     android:versionCode="20"
     android:versionName="1.2.0" >
 
-    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="25" />
+
  	<supports-screens android:largeScreens="true" android:normalScreens="true" android:resizeable="true" android:smallScreens="true" android:anyDensity="true"/>
 	
 	<uses-permission android:name="android.permission.INTERNET" />
