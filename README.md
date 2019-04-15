@@ -4,7 +4,7 @@ Music Player with bass,treble,softness tuner Equalizer.
 This music player in etierly writtern by me and also its UI/UX desinged by me.
 
 <a href="https://www.youtube.com/watch?v=gVqzzIc55Vs" target="_blank"><img src="https://raw.githubusercontent.com/KishanV/Android-Music-Player/master/imgs/youtube-Thumb.png" 
-width="240" alt='' height="180" border="10" /></a>
+width="100%" alt='' border="10" /></a>
 
 ◈ Support all the most popular music file formats.</br>
 ◈ Browse and play your music by albums, artists, songs, playlists, folders.</br>
