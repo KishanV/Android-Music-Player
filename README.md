@@ -3,12 +3,6 @@
 Music Player with bass,treble,softness tuner Equalizer.
 This music player in etierly writtern by me and also its UI/UX desinged by me.
 
- <iframe width="560" height="315"
-src="https://youtu.be/gVqzzIc55Vs" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
 ◈ Support all the most popular music file formats.</br>
 ◈ Browse and play your music by albums, artists, songs, playlists, folders.</br>
 ◈ Support genre list.</br>
